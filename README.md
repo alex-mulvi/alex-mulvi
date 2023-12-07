@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Alex Alves</h1>
+<h1 align="center">Hi 👋, I'm Alex Brito</h1>
 <h3 align="center" color="#0080FF">Mobile Developer at Mulvi</h3>
 <div  align="center"> <img style="width: 100px; height: 100px; text-align: center;" src="https://user-images.githubusercontent.com/103543739/177021268-e0f0ad06-24fb-4919-9efa-2d3caa6179a8.png"> </div>
 
